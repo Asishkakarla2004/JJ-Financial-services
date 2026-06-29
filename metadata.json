@@ -1,0 +1,6 @@
+{
+  "name": "JJ Financial Services",
+  "description": "Comprehensive financial portal featuring success stories, an interactive EMI calculator, customer dashboard, and admin tools with CMS and financial reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
